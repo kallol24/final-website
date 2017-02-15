@@ -181,105 +181,230 @@ text-align:center;
 }
 #partnerwrapper
 {
-
 width:95%;
-height:150px;
 margin:0 auto;
 }
 .partnerframe
 {
-
 height:80px;
 width:80px;
 display:inline-block;
 margin-top:20px;
 margin-left:20px;
+
 }
 .partnerlogo
 {
 height:50px;
 width:80px;
+
 }
 .partnername
 {
-height:30px;
+height:40px;
 width:80px;
 text-align:center;
 font-family: 'Oswald', sans-serif;
 font-size:12px;
+
 }
 #bytheway
 {
 background-image:url(image/logo-1.png);
 background-size: contain;
 background-repeat:no-repeat;
+background-position:center center;
 }
 #bellini
 {
 background-image:url(image/16229747_1229867223749256_1782261462_o.png);
 background-size: contain;
 background-repeat:no-repeat;
+background-position:center center;
 }
 #chicago
 {
 background:url(image/14918944_660397577476357_8235667503740310071_.jpg);
 background-size: contain;
 background-repeat:no-repeat;
+background-position:center center;
 }
 #arabian
 {
 background:url(image/IMG-20170106-WA0004.jpg);
 background-size: contain;
 background-repeat:no-repeat;
+background-position:center center;
 }
 #phattown
 {
 background:url(image/11146190_958963800802719_7318287599417341192_n.png);
 background-size: contain;
 background-repeat:no-repeat;
+background-position:center center;
 }
 #motimahal
 {
 background:url(image/10426756_1533731566926967_3994325789380445604_n.png);
 background-size: contain;
 background-repeat:no-repeat;
+background-position:center center;
 }
 #nagameez
 {
 background:url(image/1545194_712802085451429_4078759748298212205_n.jpg);
 background-size: contain;
 background-repeat:no-repeat;
+background-position:center center;
 }
 #backbencher
 {
 background:url(image/14902912_197487970696852_4332679909835157452_o.jpg);
 background-size: contain;
 background-repeat:no-repeat;
+background-position:center center;
 }
 #zouq
 {
 background:url(image/zouq.jpg);
 background-size: contain;
 background-repeat:no-repeat;
+background-position:center center;
 }
 #shahidarbar
 {
 background:url(image/15622588_219807251810445_4541428908791954702_n.jpg);
 background-size: contain;
 background-repeat:no-repeat;
+background-position:center center;
 }
 #ziya
 {
 background:url(image/IMG-20170105-WA0001.jpg);
 background-size: contain;
 background-repeat:no-repeat;
+background-position:center center;
 }
 #kathijunction
 {
 background:url(image/12227751_131584987202527_1732023016794069899_n.jpg);
 background-size: contain;
 background-repeat:no-repeat;
+background-position:center center;
 }
+#chicknchilly
+{
+background:url(image/1375921_884648428322030_6462910872019509325_n.png);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#nirvana
+{
+background:url(image/rsz_nirvana_dp.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#august
+{
+background:url(image/IMG_20170214_0001.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#nfk
+{
+background:url(image/final.png);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#brewbakes
+{
+background:url(image/rsz_114708158_1591387954491282_6179602906652671118_n.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#bordoisila
+{
+background:url(image/1a9bc510-b700-4da0-aec1-ceed5cdf0a7e.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#redchilli
+{
+background:url(image/IMG-20170120-WA0002.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#yochina
+{
+background:url(image/rsz_logo.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#krazy
+{
+background:url(image/IMG-20170105-WA0000.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#biriyani
+{
+background:url(image/IMG-20170106-WA0003.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#pizzaz
+{
+background:url(image/rsz_1img-20170106-wa0011.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#bawarchi
+{
+background:url(image/rsz_1img-20170106-wa0005_copy.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#grill
+{
+background:url(image/rsz_469375_128536243946515_1029322976_o.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#mother
+{
+background:url(image/Capture.JPG);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#dh
+{
+background:url(image/rsz_img-20170118-wa0000_1.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#tribal
+{
+background:url(image/rsz_1tribal.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+
 .socialbar
 {
 width:40%;
