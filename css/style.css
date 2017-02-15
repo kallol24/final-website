@@ -1,0 +1,343 @@
+/* CSS Document */
+.navwrapper
+{
+
+height: 70px;
+
+
+}
+
+.navlogo
+{
+height:70px;
+width:80px;
+background:url(image/cityora-app-logo.jpg);
+background-size:contain;
+background-repeat:no-repeat;
+font-family: 'Bahiana', cursive;
+font-size:24px;
+text-align:center;
+}
+.navlink
+{
+text-align:center;
+height:70px;
+width:550px;
+
+margin-left:800px;
+}
+li
+{
+display:inline-block;
+padding: 20px;
+font-family: 'Quicksand', sans-serif;
+font-size:20px;
+font-weight:500;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+	color:#330033;
+}
+
+a:active {
+    text-decoration: none;
+}
+#bannerwrapper
+{
+width:100%;
+margin:0 auto;
+}
+.banner
+{
+
+position:relative;
+top:10px;
+left:0;
+
+}
+.under
+{
+position:relative;
+top:0;
+left:0;
+height:450px;
+width:100%;
+}
+
+.over
+{
+position:absolute;
+top:350px;
+left:0;
+height:100px;
+width:100%;
+}
+
+.logo
+{
+position:absolute;
+top:60px;
+left:45%;
+height:200px;
+}
+
+.googlebadge
+{
+
+margin-top:15px;
+margin-left:500px;
+height:60px;
+width:150px;
+}
+.applebadge
+{
+
+margin-top:10px;
+margin-left:5px;
+height:60px;
+width:150px;
+}
+.mission
+{
+width:95%;
+margin:0 auto;
+}
+.missionwrapper
+{
+margin-top:20px;
+height:305px;
+width:350px;
+display:inline-block;
+}
+.missionpic
+{
+height:250px;
+width:350px;
+
+}
+.missionheading
+{
+height:50px;
+width:300px;
+margin-top:5px;
+font-family: 'Oswald', sans-serif;
+font-size:26px;
+margin-left:25px;
+
+}
+.missionquote
+{
+height:150px;
+width:350px;
+text-align:center;
+margin-top:10px;
+font-family: 'Quicksand', sans-serif;
+
+}
+#rightwrapper
+{
+float:right;
+}
+#middlewrapper
+{
+margin-left:115px;
+}
+#missionpic1
+{
+background:url(image/food.jpg);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#missionpic2
+{
+background:url(image/online-shopping.jpg);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+#missionpic3
+{
+background:url(image/event-listing.jpg);
+background-size:contain;
+background-repeat:no-repeat;
+background-position:center center;
+}
+.heading
+{
+font-family: 'Oswald', sans-serif;
+font-size:24px;
+margin-top:30px;
+margin-bottom:30px;
+text-align:center;
+}
+#partnerwrapper
+{
+
+width:95%;
+height:150px;
+margin:0 auto;
+}
+.partnerframe
+{
+
+height:80px;
+width:80px;
+display:inline-block;
+margin-top:20px;
+margin-left:20px;
+}
+.partnerlogo
+{
+height:50px;
+width:80px;
+}
+.partnername
+{
+height:30px;
+width:80px;
+text-align:center;
+font-family: 'Oswald', sans-serif;
+font-size:12px;
+}
+#bytheway
+{
+background-image:url(image/logo-1.png);
+background-size: contain;
+background-repeat:no-repeat;
+}
+#bellini
+{
+background-image:url(image/16229747_1229867223749256_1782261462_o.png);
+background-size: contain;
+background-repeat:no-repeat;
+}
+#chicago
+{
+background:url(image/14918944_660397577476357_8235667503740310071_.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+}
+#arabian
+{
+background:url(image/IMG-20170106-WA0004.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+}
+#phattown
+{
+background:url(image/11146190_958963800802719_7318287599417341192_n.png);
+background-size: contain;
+background-repeat:no-repeat;
+}
+#motimahal
+{
+background:url(image/10426756_1533731566926967_3994325789380445604_n.png);
+background-size: contain;
+background-repeat:no-repeat;
+}
+#nagameez
+{
+background:url(image/1545194_712802085451429_4078759748298212205_n.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+}
+#backbencher
+{
+background:url(image/14902912_197487970696852_4332679909835157452_o.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+}
+#zouq
+{
+background:url(image/zouq.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+}
+#shahidarbar
+{
+background:url(image/15622588_219807251810445_4541428908791954702_n.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+}
+#ziya
+{
+background:url(image/IMG-20170105-WA0001.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+}
+#kathijunction
+{
+background:url(image/12227751_131584987202527_1732023016794069899_n.jpg);
+background-size: contain;
+background-repeat:no-repeat;
+}
+.socialbar
+{
+width:40%;
+margin:0 auto;
+
+}
+#fb
+{
+height:50px;
+width:50px;
+background:url(image/facebook-logo.png);
+background-size:contain;
+display:inline-block;
+margin-left:100px;
+}
+#insta
+{
+height:50px;
+width:50px;
+background:url(image/instagram-social-network-logo-of-photo-camera.png);
+background-size:contain;
+display:inline-block;
+margin-left:20px;
+}
+#twit
+{
+height:50px;
+width:50px;
+background:url(image/twitter-logo.png);
+background-size:contain;
+display:inline-block;
+margin-left:20px;
+}
+#youtube
+{
+height:50px;
+width:50px;
+background:url(image/social.png);
+background-size:contain;
+display:inline-block;
+margin-left:20px;
+}
+#pinterest
+{
+height:50px;
+width:50px;
+background:url(image/social-1.png);
+background-size:contain;
+display:inline-block;
+margin-left:20px;
+}
+.copyright
+{
+margin-top:30px;
+width:100%;
+text-align:center;
+font-family:'Quicksand', sans-serif;
+}
+
+
+
