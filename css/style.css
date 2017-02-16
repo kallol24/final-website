@@ -1,81 +1,67 @@
 /* CSS Document */
-.navwrapper
+
+#banner
 {
-
-height: 70px;
-
-
+width:100%;
+height:400px;
+margin:0 auto;
+background:url(image/header-bg.jpg);
+top:0;
 }
-
+.navbar
+{
+width:100%;
+height:80px;
+top:0;
+}
 .navlogo
 {
-height:70px;
+margin-left:5px;
+height:80px;
 width:80px;
 background:url(image/cityora-app-logo.jpg);
 background-size:contain;
 background-repeat:no-repeat;
-font-family: 'Bahiana', cursive;
-font-size:24px;
-text-align:center;
 }
 .navlink
 {
 text-align:center;
 height:70px;
 width:550px;
-
-margin-left:800px;
+margin-left:780px;
 }
 li
 {
 display:inline-block;
 padding: 20px;
 font-family: 'Quicksand', sans-serif;
-font-size:20px;
+font-size:18px;
 font-weight:500;
 }
 a:link {
     text-decoration: none;
+	color:#FF0000;
+	
 }
 
 a:visited {
     text-decoration: none;
+	color:#FF0000;
 }
 
 a:hover {
     text-decoration: none;
-	color:#330033;
+	color:#009966;
 }
 
 a:active {
     text-decoration: none;
+	color:#FF0000;
 }
-#bannerwrapper
-{
-width:100%;
-margin:0 auto;
-}
-.banner
-{
-
-position:relative;
-top:10px;
-left:0;
-
-}
-.under
-{
-position:relative;
-top:0;
-left:0;
-height:450px;
-width:100%;
-}
-
 .over
 {
 position:absolute;
-top:350px;
+top:330px;
 left:0;
 height:100px;
 width:100%;
@@ -84,7 +70,7 @@ width:100%;
 .logo
 {
 position:absolute;
-top:60px;
+top:100px;
 left:45%;
 height:200px;
 }
@@ -119,9 +105,9 @@ display:inline-block;
 }
 .missionpic
 {
-height:250px;
-width:350px;
-
+height:200px;
+width:300px;
+margin:0 auto;
 }
 .missionheading
 {
@@ -130,8 +116,8 @@ width:300px;
 margin-top:5px;
 font-family: 'Oswald', sans-serif;
 font-size:26px;
-margin-left:25px;
-
+margin-left:20px;
+text-align:center;
 }
 .missionquote
 {
@@ -148,7 +134,7 @@ float:right;
 }
 #middlewrapper
 {
-margin-left:115px;
+margin-left:105px;
 }
 #missionpic1
 {
@@ -174,7 +160,7 @@ background-position:center center;
 .heading
 {
 font-family: 'Oswald', sans-serif;
-font-size:24px;
+font-size:28px;
 margin-top:30px;
 margin-bottom:30px;
 text-align:center;
