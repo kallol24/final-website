@@ -34,29 +34,29 @@ li
 {
 display:inline-block;
 padding: 20px;
-font-family: 'Quicksand', sans-serif;
-font-size:18px;
+font-family: 'Oswald', sans-serif;
+font-size:20px;
 font-weight:500;
 }
 a:link {
     text-decoration: none;
-	color:#FF0000;
+	color:rgb(4, 147, 114);
 	
 }
 
 a:visited {
     text-decoration: none;
-	color:#FF0000;
+	color:rgb(4, 147, 114);
 }
 
 a:hover {
     text-decoration: none;
-	color:#009966;
+	color:rgb(135, 211, 124);
 }
 
 a:active {
     text-decoration: none;
-	color:#FF0000;
+	color:rgb(4, 147, 114);
 }
 .over
 {
@@ -118,6 +118,7 @@ font-family: 'Oswald', sans-serif;
 font-size:26px;
 margin-left:20px;
 text-align:center;
+text-shadow:2px 1px #BDC3C7;
 }
 .missionquote
 {
@@ -164,19 +165,22 @@ font-size:28px;
 margin-top:30px;
 margin-bottom:30px;
 text-align:center;
+text-shadow:2px 1px #BDC3C7;
 }
 #partnerwrapper
 {
 width:95%;
 margin:0 auto;
+background:rgb(54, 215, 183);
+background:rgba(54, 215, 183, .2);
 }
 .partnerframe
 {
 height:80px;
-width:80px;
+width:90px;
 display:inline-block;
 margin-top:20px;
-margin-left:20px;
+margin-left:40px;
 
 }
 .partnerlogo
@@ -188,11 +192,12 @@ width:80px;
 .partnername
 {
 height:40px;
-width:80px;
+width:90px;
 text-align:center;
-font-family: 'Oswald', sans-serif;
+font-family: 'Quicksand', sans-serif;
 font-size:12px;
-
+font-weight:500;
+text-shadow:2px 1px #BDC3C7;
 }
 #bytheway
 {
